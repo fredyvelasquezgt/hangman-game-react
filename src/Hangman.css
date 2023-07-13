@@ -65,3 +65,7 @@
   background: #9c27b0;
   box-shadow: #7b1fa2;
 }
+
+#rest:hover {
+  background: #7b1fa2 ;
+}
